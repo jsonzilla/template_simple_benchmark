@@ -4,6 +4,7 @@ Simple Benchmark template
 Fork from [RichardDally/MicroBenchmark](https://github.com/RichardDally/MicroBenchmark)
 
 ```
+git submodule add -f https://github.com/google/googletest.git benchmark/googletest
 git submodule update --init --recursive
 ```
 
