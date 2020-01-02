@@ -14,6 +14,7 @@ cd benchmark
 mkdir build
 cd build
 cmake -G "Visual Studio 16 2019" ..
+cmake --build .
 ```
 
 Build
@@ -21,6 +22,7 @@ Build
 mkdir build
 cd build 
 cmake -G "Visual Studio 16 2019" ..
+cmake --build .
 ```
 
 
